@@ -17,6 +17,10 @@
       border: none;
     }
 
+    .nav-item {
+      font-size: 1.25rem;
+    }
+
     button:focus {
       outline: none !important;
     }

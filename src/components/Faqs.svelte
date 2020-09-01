@@ -27,8 +27,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">How frequently do events and workshops occur?</h5>
-                        <p>We have a hands-on session every Tuesday at SG25 from 1800hrs to 2030hrs. We also hold
-                            workshops and showcases & we would recommend you to join our community on all platfroms to get updates.</p>
+                        <p>We are trying to bring as much content you as possible with events and workshops round the year, follow our <a href="#social" rel="noopener">social media</a> handles to not to miss out on any event</p>
                         </div>
                     </div>
                 </div>

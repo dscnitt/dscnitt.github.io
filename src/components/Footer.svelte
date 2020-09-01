@@ -26,6 +26,12 @@
     i {
         margin: 0 5px;
     }
+
+    @media (max-width: 540px){
+        .footer-logo {
+            width: 80vw;
+        }
+    }
 </style>
 
 <div>
@@ -33,7 +39,7 @@
         <footer class="container py-5">
             <div class="row justify-content-md-around">
                 <div class="col col-lg-3">
-                    <h5>Find us on</h5>
+                    <h5 id="social">Find us on</h5>
                     <ul class="list-unstyled text-small">
 
                         <li>
@@ -112,7 +118,7 @@
                 </div>
             </footer>
             <div class="d-flex justify-content-end">
-                <img class="align-self-end" src="./images/logos/h_dark.png" width="480" alt="Developer Student Clubs National Institute of Technology Tiruchirappalli">
+                <img class="align-self-end footer-logo" src="./images/logos/h_dark.png" width="480" alt="Developer Student Clubs National Institute of Technology Tiruchirappalli">
             </div>
         </div>
     </div>

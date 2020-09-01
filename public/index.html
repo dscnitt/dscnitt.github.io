@@ -18,7 +18,7 @@
     <link rel="apple-touch-icon" href="images/icons/icon-152x152.png" />
     <meta
       name="description"
-      content="Developer Student CLubs National Institute of Technology Tiruchirappalli"
+      content="Developer Student Clubs National Institute of Technology Tiruchirappalli"
     />
 
     <link
@@ -83,16 +83,10 @@
     <script defer src="bundle.js"></script>
   </head>
   <noscript>Oops! Your browser does not support JavaScript!</noscript>
-  <body class="font-R"></body>
+  <body></body>
   <script>
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker
-        .register("service_worker.js")
-        .then((r) => {
-          console.log("registered succesfully");
-          console.log(r);
-        })
-        .catch((e) => console.log("service worker not registered"));
+      navigator.serviceWorker.register("service_worker.js")
     }
   </script>
 </html>
