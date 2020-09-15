@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="mt-40 text-center">
-                <a href="mailto:bestinbthomas+dscnitt@gmail.com" class="hero-button">Send us an email</a>
+                <a href="mailto:dscnitt@gmail.com" class="hero-button">Send us an email</a>
             </div>
         </div>
     </section>

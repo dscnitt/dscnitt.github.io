@@ -61,7 +61,7 @@
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" rel="noopener" href="mailto:bestinbthomas+dscnitt@gmail.com">
+                            <a target="_blank" rel="noopener" href="mailto:dscnitt@gmail.com">
                                 <i class="far fa-envelope"></i>
                                 Email
                             </a>
