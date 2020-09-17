@@ -13,7 +13,7 @@
                                 and     <forth-letter>leadership skills.</forth-letter>
                             </p>
                         </div>
-                    </div><a href="#" class="hero-button" target="_blank" rel="noopener"><i class="fa fa-users"></i> &nbsp; Become a member</a>
+                    </div><a href="https://dsc.community.dev/national-institute-of-technology-tiruchirappalli/" class="hero-button" target="_blank" rel="noopener"><i class="fa fa-users"></i> &nbsp; Become a member</a>
                 </div>
             </div>
             <div class="col-12 col-sm-5 ml-auto ml-pic">
