@@ -11,7 +11,7 @@ import Faqs from "./components/Faqs.svelte"
 <Navbar />
 <Header />
 <Overview />
-<Tech />
 <Events />
+<Tech />
 <Faqs />
 <Footer />
