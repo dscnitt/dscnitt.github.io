@@ -135,9 +135,36 @@
         </div>
         <div class="tab-content">
             <div class="tab-pane active" id="upcoming" role="tabpanel" aria-labelledby="upcoming">
-                <div class="row">
+                <div class="row justify-content-center">
                     <!-- remove after first event -->
-                    <p style="width: 100%; text-align: center;">Stay tuned for our first event !!</p>
+                   <!--  <p style="width: 100%; text-align: center;">Stay tuned for our first event !!</p> -->
+                    <div class="col-md-4 col-12">
+                        <div class="card event-card">
+                            <img class="card-img-top" src="./images/assets/events/info.png" alt="Info session">
+                            <div class="card-body">
+                                <p class="tagging intermediate float-right">All</p>
+                                <h5 class="card-title">Insight into DSC</h5>
+
+                                <table>
+                                    <tr>
+                                        <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
+                                        <td>26<sup>th</sup> September 2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
+                                        <td>Youtube</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td class="text-green"><i class="far fa-clock"></i></td>
+                                        <td>17:00 - 18:30</td>
+                                    </tr>
+                                </table>
+
+                                <a href="https://dsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-tiruchirappalli-presents-insight-into-dsc" class="button float-right">Attend</a>
+                            </div>
+                        </div>
+                    </div>
 <!--  template to add upcoming events
                     <div class="col-md-4 col-12">
                         <div class="card event-card">
