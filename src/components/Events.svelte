@@ -137,8 +137,8 @@
             <div class="tab-pane active" id="upcoming" role="tabpanel" aria-labelledby="upcoming">
                 <div class="row justify-content-center">
                     <!-- remove after first event -->
-                   <!--  <p style="width: 100%; text-align: center;">Stay tuned for our first event !!</p> -->
-                    <div class="col-md-4 col-12">
+                    <p style="width: 100%; text-align: center;">Stay tuned for our next event !!</p>
+<!--                     <div class="col-md-4 col-12">
                         <div class="card event-card">
                             <img class="card-img-top" src="./images/assets/events/info.png" alt="Info session">
                             <div class="card-body">
@@ -164,99 +164,18 @@
                                 <a href="https://dsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-tiruchirappalli-presents-insight-into-dsc" class="button float-right">Attend</a>
                             </div>
                         </div>
-                    </div>
-<!--  template to add upcoming events
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card">
-                            <img class="card-img-top" data-src="dist/images/assets/events/fbw.png" alt="Event one poster">
-                            <div class="card-body">
-                                <p class="tagging intermediate float-right">Intermediate</p>
-                                <h5 class="card-title">Firebase for Web</h5>
-
-                                <table>
-                                    <tr>
-                                        <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
-                                        <td>20<sup>th</sup> April 2019</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
-                                        <td>LH 20, Main Campus</td>
-
-                                    </tr>
-                                    <tr>
-                                        <td class="text-green"><i class="far fa-clock"></i></td>
-                                        <td>0900hrs - 1200hrs</td>
-                                    </tr>
-                                </table>
-
-                                <a href="https://www.meetup.com/GDG-Kisii/events/258288805/" class="button float-right">Attend</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card">
-                            <img class="card-img-top" data-src="dist/images/assets/events/fba.png" alt="Event two poster">
-                            <div class="card-body">
-                                <p class="tagging expert float-right">Expert</p>
-                                <h5 class="card-title">Firebase for Android</h5>
-                                <table>
-                                    <tr>
-                                        <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
-                                        <td>6<sup>th</sup> May 2019</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
-                                        <td>LH 20, Main Campus</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="text-green"><i class="far fa-clock"></i></td>
-                                        <td>0900hrs - 1400hrs</td>
-                                    </tr>
-                                </table>
-                                <a href="https://www.meetup.com/GDG-Kisii/events/258288819/" class="button float-right">Attend</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card">
-                            <img class="card-img-top" data-src="dist/images/assets/events/rpj.png" alt="Event three poster">
-                            <div class="card-body">
-                                <p class="tagging beginner float-right">Beginner</p>
-                                <h5 class="card-title">Raspberry Pi Jam</h5>
-                                <table>
-                                    <tr>
-                                        <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
-                                        <td>22<sup>nd</sup> May 2019</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
-                                        <td>LH 20, Main Campus</td>
-
-                                    </tr>
-                                    <tr>
-                                        <td class="text-green"><i class="far fa-clock"></i></td>
-                                        <td>1800hrs - 1930hrs</td>
-                                    </tr>
-                                </table>
-                                <a href="https://www.meetup.com/GDG-Kisii/events/258212444/" class="button float-right">Attend</a>
-                            </div>
-                        </div>
                     </div> -->
+
                 </div>
             </div>
             <div class="tab-pane fade" id="past" role="tabpanel" aria-labelledby="past">
-                <!-- remove after first event -->
-                <p style="width: 100%; text-align: center;">All past events will be posted here</p>
-<!-- template to add past events
                  <section id="hi" class="section-spacer bg-very__gray">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-sm-6">
                                 <div class="feature-list-image">
                                     <iframe
-                                    data-urllink="https://docs.google.com/presentation/d/e/2PACX-1vSubYcbqWaNFgVUDQ14VYLf_4RFiaVeFl-Tz6ryS_YAuYmP9xhdAUrV0_V5GpeHHenACAIwl8zwTZ3z/embed?start=false&loop=true&delayms=3000"
+                                    src="https://www.youtube.com/embed/tOvrJkU3io8"
                                     frameborder="0" width="480" height="299" allowfullscreen="true"
                                     mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                                 </div>
@@ -264,19 +183,18 @@
                             <div class="col-sm-5 ml-auto">
                                 <div class="feature-list-wrapper">
                                     <div class="content-header">
-                                        <h2 class="content-title">Getting Started with Android Things</h2>
+                                        <h2 class="content-title">Insight Into DSC</h2>
                                         <hr>
-                                        <h6>DATE : 26<sup>th</sup> Jan 2019</h6>
-                                        <h6>VENUE : LH 27, Main Campus</h6>
-                                        <p>We learnt how to assemble an Android Things kit and saw the temperature and barometer sensors on the kit in action</p>
+                                        <h6>DATE : 26<sup>th</sup> Sep 2020</h6>
+                                        <p>Introducing Developer Students Clubs and the importance of communities</p>
                                     </div>
-                                    <a href="#" class="past-event" target="_blank" rel="noopener">EVENT PHOTOS&nbsp;&nbsp;<i class="fas fa-camera"></i></a>
+                                    <a href="https://dsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-tiruchirappalli-presents-insight-into-dsc/" class="past-event" target="_blank" rel="noopener">View Event&nbsp;&nbsp;<i class="fas fa-calendar-week"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
-
+<!--
                 <section class="section-spacer">
                     <div class="container">
                         <div class="row flex-column-reverse flex-sm-row align-items-cengit ter">

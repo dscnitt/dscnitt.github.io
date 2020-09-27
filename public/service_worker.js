@@ -1,10 +1,11 @@
 
-const staticCacheName = "site-static-v0.0.2"
+const staticCacheName = "site-static-v0.0.3"
 const assets = [
 	'/',
 	'/index.html',
 	'/global.css',
 	'/responsive.css',
+	'/bundle.js',
 	'/images/assets/technologies/cloud.png',
 	'/images/assets/technologies/android.png',
 	'/images/assets/technologies/mi.png',
