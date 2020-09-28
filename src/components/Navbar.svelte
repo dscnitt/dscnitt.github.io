@@ -36,6 +36,7 @@
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav text-center">
+        <li class="nav-item"><a href="#workshops" rel="noopener" class="nav-link">Events</a></li>
         <li class="nav-item"><a href="#technologies" rel="noopener" class="nav-link">Technologies</a></li>
         <li class="nav-item"><a href="#workshops" rel="noopener" class="nav-link">Workshops</a></li>
         <li class="nav-item"><a href="#faqs" rel="noopener" class="nav-link">FAQ</a></li>
