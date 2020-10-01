@@ -9,6 +9,7 @@ import Faqs from "./components/Faqs.svelte"
 </script>
 
 <Navbar />
+<h1>this is just a test</h1>
 <Header />
 <Overview />
 <Events />
