@@ -1,3 +1,8 @@
+<script>
+
+import { title } from "process";
+
+</script>
 <style>
     .nav-tabs {
         border: none !important;
@@ -137,18 +142,18 @@
             <div class="tab-pane active" id="upcoming" role="tabpanel" aria-labelledby="upcoming">
                 <div class="row justify-content-center">
                     <!-- remove after first event -->
-                    <p style="width: 100%; text-align: center;">Stay tuned for our next event !!</p>
-<!--                     <div class="col-md-4 col-12">
+                    <!-- <p style="width: 100%; text-align: center;">Stay tuned for our next event !!</p> -->
+                     <div class="col-md-4 col-12">
                         <div class="card event-card">
-                            <img class="card-img-top" src="./images/assets/events/info.png" alt="Info session">
+                            <img class="card-img-top" src="./images/assets/events/codingculture/1.png" alt="Info session">
                             <div class="card-body">
                                 <p class="tagging intermediate float-right">All</p>
-                                <h5 class="card-title">Insight into DSC</h5>
+                                <h5 class="card-title">Get it Done with the Experts</h5>
 
                                 <table>
                                     <tr>
                                         <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
-                                        <td>26<sup>th</sup> September 2020</td>
+                                        <td>15<sup>th</sup> November 2020</td>
                                     </tr>
                                     <tr>
                                         <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
@@ -157,14 +162,14 @@
                                     </tr>
                                     <tr>
                                         <td class="text-green"><i class="far fa-clock"></i></td>
-                                        <td>17:00 - 18:30</td>
+                                        <td>17:00 - 19:00</td>
                                     </tr>
                                 </table>
 
-                                <a href="https://dsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-tiruchirappalli-presents-insight-into-dsc" class="button float-right">Attend</a>
+                                <a href="https://dsc.community.dev/e/mzcq54/" class="button float-right">Attend</a>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
 
                 </div>
             </div>
@@ -174,7 +179,7 @@
                         <div class="row align-items-center">
                             <div class="col-sm-6">
                                 <div class="feature-list-image">
-                                    <iframe
+                                    <iframe title="Watch the live stream"
                                     src="https://www.youtube.com/embed/tOvrJkU3io8"
                                     frameborder="0" width="480" height="299" allowfullscreen="true"
                                     mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
