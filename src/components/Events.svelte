@@ -132,11 +132,14 @@
 		<div class="workshops-type-switch">
 			<ul class="nav nav-pills justify-content-center nav-tabs">
 				<li class="nav-item">
-					<a class="nav-link active" data-toggle="tab" href="#upcoming">Upcoming
-						Events</a>
+					<a
+						class="nav-link active"
+						data-toggle="tab"
+						href="#upcoming">Upcoming Events</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" data-toggle="tab" href="#past">Past Events</a>
+					<a class="nav-link" data-toggle="tab" href="#past">Past
+						Events</a>
 				</li>
 			</ul>
 		</div>
@@ -148,36 +151,54 @@
 				aria-labelledby="upcoming">
 				<div class="row justify-content-center">
 					<!-- remove after first event -->
-					<p style="width: 100%; text-align: center;">
+					<!-- <p style="width: 100%; text-align: center;">
 						Stay tuned for our next event !!
-					</p>
-					<!-- <div class="col-md-4 col-12">
-                        <div class="card event-card">
-                            <img class="card-img-top" src="./images/assets/events/codingculture/1.png" alt="Info session">
-                            <div class="card-body">
-                                <p class="tagging intermediate float-right">All</p>
-                                <h5 class="card-title">Get it Done with the Experts</h5>
+					</p> -->
+					<div class="col-md-4 col-12">
+						<div class="card event-card">
+							<img
+								class="card-img-top"
+								src="./images/assets/events/solution_challenge.png"
+								alt="Info session" />
+							<div class="card-body">
+								<p class="tagging intermediate float-right">
+									All
+								</p>
+								<h5 class="card-title">Solution Challenge</h5>
 
-                                <table>
-                                    <tr>
-                                        <td width="15%" class="text-blue"><i class="far fa-calendar-alt"></i></td>
-                                        <td>15<sup>th</sup> November 2020</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="text-red"><i class="fas fa-map-marker-alt"></i></td>
-                                        <td>Youtube</td>
-
-                                    </tr>
-                                    <tr>
+								<table>
+									<tr>
+										<td width="15%" class="text-blue">
+											<i class="far fa-calendar-alt" />
+										</td>
+										<td>
+											Deadline for submission: 15<sup>th</sup>
+											November 2020
+										</td>
+									</tr>
+									<tr>
+										<td class="text-red">
+											<i class="fas fa-map-marker-alt" />
+										</td>
+										<td>
+											<a
+												href="https://goo.gle/solutionchallenge"
+												target="_blank"
+												rel="noopener noreferrer">goo.gle/solutionchallenge</a>
+										</td>
+									</tr>
+									<!-- <tr>
                                         <td class="text-green"><i class="far fa-clock"></i></td>
                                         <td>17:00 - 19:00</td>
-                                    </tr>
-                                </table>
+                                    </tr> -->
+								</table>
 
-                                <a href="https://dsc.community.dev/e/mzcq54/" class="button float-right">Attend</a>
-                            </div>
-                        </div>
-                    </div> -->
+								<a
+									href="https://dsc.community.dev/2021-solution-challenge/"
+									class="button float-right">Register</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div
@@ -185,6 +206,58 @@
 				id="past"
 				role="tabpanel"
 				aria-labelledby="past">
+				<section class="section-spacer">
+					<div class="container">
+						<div
+							class="row flex-column-reverse flex-sm-row align-items-cengit ter">
+							<div class="col-sm-5 mr-auto">
+								<div class="feature-list-wrapper">
+									<div class="content-header">
+										<h2 class="content-title">
+											Android Study Jams
+										</h2>
+										<hr />
+										<h6>
+											DATE : 19<sup>th</sup>
+											Dec 2020 to 25<sup>th</sup>
+											Jan 2021
+										</h6>
+										<h6>Youtube Live</h6>
+										<p>
+											A community-driven program to help
+											learn Android App Development
+											through a specially curated online
+											training course. The participants
+											will learn the fundamentals of
+											Android development, build a variety
+											of apps using Kotlin, and earn
+											badges/certificates along the way.
+										</p>
+									</div>
+									<a
+										href="https://bit.ly/android_dscnitt"
+										class="past-event"
+										target="_blank"
+										rel="noopener">View Event&nbsp;&nbsp;</a>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="feature-list-image">
+									<iframe
+										title=""
+										src="https://www.youtube.com/embed/videoseries?list=PL3vbBE23hWEO79QpYWMFzRiA818GFuo_E"
+										frameborder="0"
+										width="480"
+										height="299"
+										allowfullscreen="true"
+										allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+										mozallowfullscreen="true"
+										webkitallowfullscreen="true" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
 				<section id="hi" class="section-spacer bg-very__gray">
 					<div class="container">
 						<div class="row align-items-center">
@@ -205,19 +278,22 @@
 							<div class="col-sm-5 ml-auto">
 								<div class="feature-list-wrapper">
 									<div class="content-header">
-										<h2 class="content-title">Insight Into DSC</h2>
+										<h2 class="content-title">
+											Insight Into DSC
+										</h2>
 										<hr />
 										<h6>DATE : 26<sup>th</sup> Sep 2020</h6>
 										<p>
-											Introducing Developer Students Clubs and the importance of
-											communities
+											Introducing Developer Students Clubs
+											and the importance of communities
 										</p>
 									</div>
 									<a
 										href="https://dsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-tiruchirappalli-presents-insight-into-dsc/"
 										class="past-event"
 										target="_blank"
-										rel="noopener">View Event&nbsp;&nbsp;<i class="fas
+										rel="noopener">View Event&nbsp;&nbsp;<i
+											class="fas
 												fa-calendar-week" /></a>
 								</div>
 							</div>
@@ -232,14 +308,17 @@
 							<div class="col-sm-5 mr-auto">
 								<div class="feature-list-wrapper">
 									<div class="content-header">
-										<h2 class="content-title">Get it Done with the Experts</h2>
+										<h2 class="content-title">
+											Get it Done with the Experts
+										</h2>
 										<hr />
 										<h6>DATE : 15<sup>th</sup> Nov 2020</h6>
 										<h6>Youtube Live</h6>
 										<p>
-											We concentrated on two parts of Flutter, that we admire
-											most : The developer experience and brand design first
-											development
+											We concentrated on two parts of
+											Flutter, that we admire most : The
+											developer experience and brand
+											design first development
 										</p>
 									</div>
 									<a
